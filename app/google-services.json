@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487955068201",
+    "firebase_url": "https://calcettiamo20.firebaseio.com",
+    "project_id": "calcettiamo20",
+    "storage_bucket": "calcettiamo20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487955068201:android:5875b87d28c0b03f",
+        "android_client_info": {
+          "package_name": "com.example.fed.calcettiamo20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487955068201-7ljo4fmsq0967cogvh3o7vmjq038s4sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fed.calcettiamo20",
+            "certificate_hash": "5efbadf889665fa66e2df0eae6b0da6779d98c83"
+          }
+        },
+        {
+          "client_id": "487955068201-qn2j1ugkn5aapufhl2f2j56ciikfk16t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7Q7YOpZDNVkF2ktX9dMiWgLKG62KEbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487955068201-qn2j1ugkn5aapufhl2f2j56ciikfk16t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
